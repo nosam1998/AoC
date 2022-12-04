@@ -1,0 +1,1469 @@
+Is x:2 <= a: 79: True
+Is y: 80 >= b: 80: True
+2: (79, 80) - (2, 80)
+Line #5 is True!
+1: (29, 90) - (30, 89)
+Line #6 is True!
+Is x:20 <= a: 20: True
+Is y: 94 >= b: 93: True
+2: (20, 93) - (20, 94)
+Line #8 is True!
+Is x:15 <= a: 42: True
+Is y: 52 >= b: 52: True
+2: (42, 52) - (15, 52)
+Line #11 is True!
+Is x:17 <= a: 18: True
+Is y: 81 >= b: 81: True
+2: (18, 81) - (17, 81)
+Line #14 is True!
+1: (2, 34) - (2, 33)
+Line #15 is True!
+1: (6, 49) - (27, 49)
+Line #18 is True!
+Is x:16 <= a: 17: True
+Is y: 69 >= b: 69: True
+2: (17, 69) - (16, 69)
+Line #19 is True!
+1: (69, 72) - (70, 72)
+Line #22 is True!
+1: (48, 85) - (52, 84)
+Line #24 is True!
+1: (17, 86) - (17, 85)
+Line #27 is True!
+1: (7, 98) - (8, 98)
+Line #28 is True!
+Is x:13 <= a: 13: True
+Is y: 79 >= b: 59: True
+2: (13, 59) - (13, 79)
+Line #31 is True!
+Is x:4 <= a: 5: True
+Is y: 95 >= b: 95: True
+2: (5, 95) - (4, 95)
+Line #32 is True!
+1: (2, 40) - (2, 39)
+Line #33 is True!
+1: (2, 93) - (92, 92)
+Line #40 is True!
+Is x:73 <= a: 77: True
+Is y: 84 >= b: 83: True
+2: (77, 83) - (73, 84)
+Line #41 is True!
+1: (28, 79) - (57, 74)
+Line #44 is True!
+Is x:9 <= a: 60: True
+Is y: 60 >= b: 60: True
+2: (60, 60) - (9, 60)
+Line #46 is True!
+Is x:4 <= a: 5: True
+Is y: 54 >= b: 31: True
+2: (5, 31) - (4, 54)
+Line #51 is True!
+Is x:55 <= a: 55: True
+Is y: 95 >= b: 92: True
+2: (55, 92) - (55, 95)
+Line #53 is True!
+1: (64, 81) - (65, 81)
+Line #57 is True!
+1: (28, 94) - (28, 94)
+Line #59 is True!
+Is x:12 <= a: 86: True
+Is y: 89 >= b: 89: True
+2: (86, 89) - (12, 89)
+Line #62 is True!
+1: (29, 31) - (30, 31)
+Line #63 is True!
+1: (17, 53) - (17, 52)
+Line #72 is True!
+1: (70, 87) - (70, 86)
+Line #73 is True!
+Is x:1 <= a: 1: True
+Is y: 86 >= b: 33: True
+2: (1, 33) - (1, 86)
+Line #74 is True!
+1: (13, 75) - (14, 27)
+Line #76 is True!
+1: (26, 73) - (26, 72)
+Line #77 is True!
+Is x:3 <= a: 65: True
+Is y: 65 >= b: 65: True
+2: (65, 65) - (3, 65)
+Line #79 is True!
+1: (5, 92) - (28, 29)
+Line #80 is True!
+1: (29, 42) - (29, 37)
+Line #82 is True!
+Is x:28 <= a: 28: True
+Is y: 41 >= b: 40: True
+2: (28, 40) - (28, 41)
+Line #85 is True!
+Is x:10 <= a: 98: True
+Is y: 98 >= b: 98: True
+2: (98, 98) - (10, 98)
+Line #86 is True!
+Is x:3 <= a: 11: True
+Is y: 74 >= b: 21: True
+2: (11, 21) - (3, 74)
+Line #87 is True!
+1: (4, 32) - (5, 31)
+Line #88 is True!
+1: (77, 99) - (82, 94)
+Line #91 is True!
+1: (8, 91) - (9, 91)
+Line #92 is True!
+Is x:11 <= a: 88: True
+Is y: 89 >= b: 88: True
+2: (88, 88) - (11, 89)
+Line #95 is True!
+1: (6, 77) - (6, 76)
+Line #97 is True!
+1: (82, 91) - (84, 90)
+Line #98 is True!
+1: (7, 97) - (47, 96)
+Line #99 is True!
+Is x:54 <= a: 54: True
+Is y: 67 >= b: 64: True
+2: (54, 64) - (54, 67)
+Line #100 is True!
+Is x:4 <= a: 5: True
+Is y: 97 >= b: 97: True
+2: (5, 97) - (4, 97)
+Line #102 is True!
+1: (42, 51) - (42, 45)
+Line #104 is True!
+Is x:69 <= a: 69: True
+Is y: 80 >= b: 70: True
+2: (69, 70) - (69, 80)
+Line #105 is True!
+Is x:16 <= a: 16: True
+Is y: 88 >= b: 86: True
+2: (16, 86) - (16, 88)
+Line #106 is True!
+1: (58, 59) - (58, 58)
+Line #107 is True!
+1: (56, 86) - (57, 57)
+Line #108 is True!
+Is x:10 <= a: 11: True
+Is y: 35 >= b: 35: True
+2: (11, 35) - (10, 35)
+Line #109 is True!
+1: (32, 34) - (32, 34)
+Line #112 is True!
+Is x:3 <= a: 65: True
+Is y: 66 >= b: 65: True
+2: (65, 65) - (3, 66)
+Line #114 is True!
+Is x:43 <= a: 74: True
+Is y: 91 >= b: 90: True
+2: (74, 90) - (43, 91)
+Line #117 is True!
+Is x:5 <= a: 65: True
+Is y: 92 >= b: 91: True
+2: (65, 91) - (5, 92)
+Line #119 is True!
+1: (50, 97) - (50, 93)
+Line #124 is True!
+Is x:8 <= a: 8: True
+Is y: 96 >= b: 74: True
+2: (8, 74) - (8, 96)
+Line #125 is True!
+1: (29, 62) - (29, 55)
+Line #128 is True!
+1: (26, 88) - (37, 88)
+Line #130 is True!
+1: (45, 78) - (46, 46)
+Line #131 is True!
+1: (60, 65) - (60, 61)
+Line #132 is True!
+1: (7, 99) - (7, 97)
+Line #135 is True!
+Is x:1 <= a: 2: True
+Is y: 99 >= b: 98: True
+2: (2, 98) - (1, 99)
+Line #136 is True!
+Is x:3 <= a: 4: True
+Is y: 99 >= b: 99: True
+2: (4, 99) - (3, 99)
+Line #138 is True!
+Is x:6 <= a: 6: True
+Is y: 51 >= b: 50: True
+2: (6, 50) - (6, 51)
+Line #139 is True!
+1: (37, 98) - (62, 98)
+Line #140 is True!
+1: (38, 86) - (38, 39)
+Line #141 is True!
+1: (1, 96) - (1, 95)
+Line #142 is True!
+1: (7, 93) - (19, 93)
+Line #146 is True!
+1: (25, 79) - (25, 78)
+Line #154 is True!
+Is x:62 <= a: 87: True
+Is y: 87 >= b: 87: True
+2: (87, 87) - (62, 87)
+Line #156 is True!
+1: (30, 57) - (54, 56)
+Line #157 is True!
+Is x:20 <= a: 30: True
+Is y: 65 >= b: 64: True
+2: (30, 64) - (20, 65)
+Line #158 is True!
+Is x:13 <= a: 22: True
+Is y: 88 >= b: 54: True
+2: (22, 54) - (13, 88)
+Line #160 is True!
+1: (66, 84) - (67, 83)
+Line #162 is True!
+1: (6, 95) - (7, 74)
+Line #163 is True!
+1: (18, 35) - (18, 35)
+Line #165 is True!
+1: (8, 68) - (8, 8)
+Line #169 is True!
+Is x:13 <= a: 15: True
+Is y: 20 >= b: 18: True
+2: (15, 18) - (13, 20)
+Line #170 is True!
+Is x:8 <= a: 37: True
+Is y: 98 >= b: 50: True
+2: (37, 50) - (8, 98)
+Line #171 is True!
+1: (12, 93) - (13, 13)
+Line #173 is True!
+1: (6, 79) - (7, 79)
+Line #174 is True!
+1: (18, 59) - (18, 41)
+Line #175 is True!
+1: (6, 82) - (6, 80)
+Line #177 is True!
+Is x:6 <= a: 74: True
+Is y: 74 >= b: 74: True
+2: (74, 74) - (6, 74)
+Line #178 is True!
+Is x:1 <= a: 1: True
+Is y: 99 >= b: 98: True
+2: (1, 98) - (1, 99)
+Line #179 is True!
+Is x:23 <= a: 26: True
+Is y: 35 >= b: 35: True
+2: (26, 35) - (23, 35)
+Line #182 is True!
+1: (36, 78) - (37, 37)
+Line #184 is True!
+Is x:20 <= a: 20: True
+Is y: 97 >= b: 96: True
+2: (20, 96) - (20, 97)
+Line #186 is True!
+Is x:13 <= a: 30: True
+Is y: 47 >= b: 46: True
+2: (30, 46) - (13, 47)
+Line #187 is True!
+Is x:15 <= a: 15: True
+Is y: 88 >= b: 86: True
+2: (15, 86) - (15, 88)
+Line #188 is True!
+Is x:37 <= a: 37: True
+Is y: 67 >= b: 60: True
+2: (37, 60) - (37, 67)
+Line #197 is True!
+1: (7, 14) - (8, 14)
+Line #199 is True!
+1: (29, 64) - (29, 29)
+Line #200 is True!
+Is x:33 <= a: 34: True
+Is y: 58 >= b: 58: True
+2: (34, 58) - (33, 58)
+Line #201 is True!
+1: (1, 97) - (2, 97)
+Line #202 is True!
+1: (81, 90) - (81, 89)
+Line #206 is True!
+Is x:21 <= a: 22: True
+Is y: 46 >= b: 46: True
+2: (22, 46) - (21, 46)
+Line #208 is True!
+1: (13, 74) - (74, 74)
+Line #209 is True!
+1: (34, 61) - (36, 61)
+Line #212 is True!
+1: (41, 52) - (42, 42)
+Line #213 is True!
+Is x:3 <= a: 3: True
+Is y: 87 >= b: 12: True
+2: (3, 12) - (3, 87)
+Line #214 is True!
+1: (17, 98) - (17, 30)
+Line #224 is True!
+1: (44, 80) - (44, 76)
+Line #230 is True!
+Is x:30 <= a: 31: True
+Is y: 55 >= b: 47: True
+2: (31, 47) - (30, 55)
+Line #232 is True!
+Is x:3 <= a: 3: True
+Is y: 98 >= b: 57: True
+2: (3, 57) - (3, 98)
+Line #234 is True!
+1: (2, 90) - (3, 90)
+Line #235 is True!
+Is x:22 <= a: 22: True
+Is y: 80 >= b: 79: True
+2: (22, 79) - (22, 80)
+Line #236 is True!
+Is x:27 <= a: 28: True
+Is y: 46 >= b: 46: True
+2: (28, 46) - (27, 46)
+Line #237 is True!
+1: (36, 81) - (36, 50)
+Line #239 is True!
+Is x:19 <= a: 19: True
+Is y: 41 >= b: 40: True
+2: (19, 40) - (19, 41)
+Line #240 is True!
+Is x:31 <= a: 32: True
+Is y: 58 >= b: 58: True
+2: (32, 58) - (31, 58)
+Line #242 is True!
+Is x:1 <= a: 1: True
+Is y: 80 >= b: 8: True
+2: (1, 8) - (1, 80)
+Line #244 is True!
+1: (7, 27) - (9, 19)
+Line #245 is True!
+Is x:30 <= a: 32: True
+Is y: 37 >= b: 36: True
+2: (32, 36) - (30, 37)
+Line #248 is True!
+1: (65, 80) - (66, 79)
+Line #250 is True!
+Is x:14 <= a: 15: True
+Is y: 76 >= b: 75: True
+2: (15, 75) - (14, 76)
+Line #254 is True!
+Is x:38 <= a: 39: True
+Is y: 82 >= b: 82: True
+2: (39, 82) - (38, 82)
+Line #255 is True!
+1: (3, 95) - (3, 57)
+Line #256 is True!
+1: (22, 98) - (32, 96)
+Line #257 is True!
+1: (2, 93) - (3, 93)
+Line #258 is True!
+Is x:2 <= a: 3: True
+Is y: 80 >= b: 25: True
+2: (3, 25) - (2, 80)
+Line #261 is True!
+1: (50, 54) - (51, 52)
+Line #262 is True!
+Is x:3 <= a: 54: True
+Is y: 96 >= b: 74: True
+2: (54, 74) - (3, 96)
+Line #265 is True!
+1: (8, 55) - (8, 42)
+Line #268 is True!
+1: (6, 33) - (7, 33)
+Line #269 is True!
+Is x:5 <= a: 6: True
+Is y: 46 >= b: 13: True
+2: (6, 13) - (5, 46)
+Line #272 is True!
+1: (14, 73) - (34, 73)
+Line #273 is True!
+1: (7, 94) - (7, 89)
+Line #274 is True!
+1: (56, 86) - (57, 86)
+Line #275 is True!
+Is x:11 <= a: 12: True
+Is y: 53 >= b: 53: True
+2: (12, 53) - (11, 53)
+Line #276 is True!
+Is x:52 <= a: 52: True
+Is y: 54 >= b: 53: True
+2: (52, 53) - (52, 54)
+Line #279 is True!
+1: (6, 35) - (12, 34)
+Line #280 is True!
+Is x:7 <= a: 57: True
+Is y: 58 >= b: 58: True
+2: (57, 58) - (7, 58)
+Line #282 is True!
+Is x:15 <= a: 15: True
+Is y: 85 >= b: 84: True
+2: (15, 84) - (15, 85)
+Line #285 is True!
+1: (16, 89) - (17, 89)
+Line #286 is True!
+Is x:22 <= a: 23: True
+Is y: 84 >= b: 83: True
+2: (23, 83) - (22, 84)
+Line #291 is True!
+Is x:1 <= a: 2: True
+Is y: 99 >= b: 99: True
+2: (2, 99) - (1, 99)
+Line #292 is True!
+1: (24, 52) - (25, 52)
+Line #293 is True!
+1: (45, 71) - (45, 54)
+Line #302 is True!
+Is x:62 <= a: 65: True
+Is y: 73 >= b: 73: True
+2: (65, 73) - (62, 73)
+Line #303 is True!
+1: (33, 94) - (34, 93)
+Line #305 is True!
+1: (7, 62) - (14, 62)
+Line #306 is True!
+Is x:1 <= a: 81: True
+Is y: 81 >= b: 81: True
+2: (81, 81) - (1, 81)
+Line #311 is True!
+Is x:22 <= a: 23: True
+Is y: 93 >= b: 93: True
+2: (23, 93) - (22, 93)
+Line #313 is True!
+Is x:12 <= a: 13: True
+Is y: 40 >= b: 40: True
+2: (13, 40) - (12, 40)
+Line #315 is True!
+Is x:9 <= a: 10: True
+Is y: 94 >= b: 87: True
+2: (10, 87) - (9, 94)
+Line #316 is True!
+1: (53, 63) - (54, 54)
+Line #317 is True!
+1: (25, 72) - (45, 71)
+Line #318 is True!
+1: (9, 80) - (10, 75)
+Line #323 is True!
+1: (32, 98) - (33, 97)
+Line #326 is True!
+1: (1, 97) - (2, 97)
+Line #329 is True!
+1: (82, 82) - (82, 82)
+Line #330 is True!
+Is x:5 <= a: 6: True
+Is y: 99 >= b: 99: True
+2: (6, 99) - (5, 99)
+Line #336 is True!
+1: (21, 66) - (22, 66)
+Line #341 is True!
+1: (93, 96) - (94, 95)
+Line #342 is True!
+Is x:2 <= a: 3: True
+Is y: 99 >= b: 98: True
+2: (3, 98) - (2, 99)
+Line #345 is True!
+Is x:2 <= a: 3: True
+Is y: 95 >= b: 95: True
+2: (3, 95) - (2, 95)
+Line #346 is True!
+1: (35, 98) - (94, 98)
+Line #347 is True!
+1: (48, 94) - (49, 94)
+Line #349 is True!
+1: (29, 47) - (29, 35)
+Line #350 is True!
+Is x:1 <= a: 1: True
+Is y: 61 >= b: 4: True
+2: (1, 4) - (1, 61)
+Line #352 is True!
+Is x:19 <= a: 20: True
+Is y: 89 >= b: 63: True
+2: (20, 63) - (19, 89)
+Line #353 is True!
+1: (11, 96) - (11, 50)
+Line #354 is True!
+1: (76, 97) - (76, 95)
+Line #356 is True!
+Is x:12 <= a: 12: True
+Is y: 89 >= b: 64: True
+2: (12, 64) - (12, 89)
+Line #359 is True!
+Is x:3 <= a: 4: True
+Is y: 84 >= b: 84: True
+2: (4, 84) - (3, 84)
+Line #360 is True!
+Is x:64 <= a: 65: True
+Is y: 75 >= b: 75: True
+2: (65, 75) - (64, 75)
+Line #362 is True!
+Is x:19 <= a: 30: True
+Is y: 30 >= b: 30: True
+2: (30, 30) - (19, 30)
+Line #363 is True!
+Is x:39 <= a: 99: True
+Is y: 99 >= b: 99: True
+2: (99, 99) - (39, 99)
+Line #364 is True!
+1: (18, 70) - (18, 44)
+Line #365 is True!
+Is x:1 <= a: 1: True
+Is y: 42 >= b: 31: True
+2: (1, 31) - (1, 42)
+Line #366 is True!
+Is x:68 <= a: 69: True
+Is y: 94 >= b: 69: True
+2: (69, 69) - (68, 94)
+Line #370 is True!
+1: (10, 82) - (10, 81)
+Line #371 is True!
+1: (28, 88) - (88, 88)
+Line #375 is True!
+Is x:27 <= a: 80: True
+Is y: 81 >= b: 80: True
+2: (80, 80) - (27, 81)
+Line #377 is True!
+Is x:14 <= a: 15: True
+Is y: 73 >= b: 73: True
+2: (15, 73) - (14, 73)
+Line #380 is True!
+Is x:3 <= a: 13: True
+Is y: 13 >= b: 13: True
+2: (13, 13) - (3, 13)
+Line #381 is True!
+1: (29, 77) - (29, 71)
+Line #382 is True!
+Is x:15 <= a: 16: True
+Is y: 87 >= b: 87: True
+2: (16, 87) - (15, 87)
+Line #385 is True!
+1: (27, 48) - (28, 28)
+Line #388 is True!
+Is x:21 <= a: 21: True
+Is y: 76 >= b: 70: True
+2: (21, 70) - (21, 76)
+Line #390 is True!
+1: (85, 99) - (85, 86)
+Line #391 is True!
+1: (47, 77) - (48, 77)
+Line #392 is True!
+Is x:17 <= a: 72: True
+Is y: 73 >= b: 72: True
+2: (72, 72) - (17, 73)
+Line #400 is True!
+1: (19, 46) - (19, 19)
+Line #402 is True!
+1: (8, 92) - (8, 91)
+Line #405 is True!
+Is x:6 <= a: 6: True
+Is y: 89 >= b: 88: True
+2: (6, 88) - (6, 89)
+Line #410 is True!
+1: (30, 76) - (31, 31)
+Line #412 is True!
+1: (12, 94) - (93, 93)
+Line #413 is True!
+1: (35, 49) - (36, 49)
+Line #414 is True!
+1: (15, 67) - (16, 66)
+Line #415 is True!
+Is x:30 <= a: 31: True
+Is y: 88 >= b: 87: True
+2: (31, 87) - (30, 88)
+Line #419 is True!
+Is x:45 <= a: 46: True
+Is y: 72 >= b: 46: True
+2: (46, 46) - (45, 72)
+Line #424 is True!
+Is x:15 <= a: 16: True
+Is y: 22 >= b: 21: True
+2: (16, 21) - (15, 22)
+Line #425 is True!
+1: (14, 99) - (15, 99)
+Line #429 is True!
+Is x:25 <= a: 25: True
+Is y: 75 >= b: 25: True
+2: (25, 25) - (25, 75)
+Line #430 is True!
+Is x:12 <= a: 12: True
+Is y: 92 >= b: 91: True
+2: (12, 91) - (12, 92)
+Line #431 is True!
+Is x:9 <= a: 9: True
+Is y: 92 >= b: 90: True
+2: (9, 90) - (9, 92)
+Line #433 is True!
+Is x:64 <= a: 64: True
+Is y: 83 >= b: 82: True
+2: (64, 82) - (64, 83)
+Line #435 is True!
+1: (9, 96) - (96, 96)
+Line #437 is True!
+Is x:66 <= a: 66: True
+Is y: 98 >= b: 91: True
+2: (66, 91) - (66, 98)
+Line #439 is True!
+1: (24, 28) - (25, 28)
+Line #442 is True!
+Is x:38 <= a: 38: True
+Is y: 93 >= b: 86: True
+2: (38, 86) - (38, 93)
+Line #444 is True!
+1: (4, 50) - (32, 49)
+Line #445 is True!
+Is x:10 <= a: 96: True
+Is y: 96 >= b: 96: True
+2: (96, 96) - (10, 96)
+Line #449 is True!
+1: (21, 53) - (22, 53)
+Line #451 is True!
+1: (56, 99) - (56, 98)
+Line #455 is True!
+1: (18, 59) - (18, 32)
+Line #458 is True!
+Is x:69 <= a: 73: True
+Is y: 75 >= b: 75: True
+2: (73, 75) - (69, 75)
+Line #459 is True!
+1: (24, 77) - (25, 77)
+Line #460 is True!
+Is x:54 <= a: 55: True
+Is y: 80 >= b: 57: True
+2: (55, 57) - (54, 80)
+Line #463 is True!
+1: (8, 22) - (8, 22)
+Line #464 is True!
+Is x:7 <= a: 96: True
+Is y: 96 >= b: 96: True
+2: (96, 96) - (7, 96)
+Line #465 is True!
+1: (51, 63) - (53, 63)
+Line #466 is True!
+1: (14, 99) - (15, 99)
+Line #467 is True!
+1: (20, 98) - (20, 97)
+Line #468 is True!
+Is x:20 <= a: 20: True
+Is y: 53 >= b: 48: True
+2: (20, 48) - (20, 53)
+Line #471 is True!
+Is x:56 <= a: 81: True
+Is y: 86 >= b: 86: True
+2: (81, 86) - (56, 86)
+Line #475 is True!
+Is x:78 <= a: 79: True
+Is y: 90 >= b: 79: True
+2: (79, 79) - (78, 90)
+Line #477 is True!
+1: (37, 87) - (37, 87)
+Line #479 is True!
+Is x:19 <= a: 63: True
+Is y: 63 >= b: 63: True
+2: (63, 63) - (19, 63)
+Line #483 is True!
+1: (8, 85) - (16, 83)
+Line #486 is True!
+1: (11, 87) - (12, 86)
+Line #488 is True!
+Is x:5 <= a: 77: True
+Is y: 92 >= b: 92: True
+2: (77, 92) - (5, 92)
+Line #489 is True!
+1: (57, 76) - (65, 76)
+Line #493 is True!
+1: (58, 75) - (58, 63)
+Line #494 is True!
+Is x:66 <= a: 67: True
+Is y: 88 >= b: 88: True
+2: (67, 88) - (66, 88)
+Line #495 is True!
+Is x:3 <= a: 7: True
+Is y: 18 >= b: 17: True
+2: (7, 17) - (3, 18)
+Line #499 is True!
+1: (42, 89) - (43, 89)
+Line #500 is True!
+Is x:67 <= a: 68: True
+Is y: 94 >= b: 93: True
+2: (68, 93) - (67, 94)
+Line #503 is True!
+Is x:3 <= a: 3: True
+Is y: 86 >= b: 85: True
+2: (3, 85) - (3, 86)
+Line #504 is True!
+1: (26, 81) - (27, 27)
+Line #505 is True!
+1: (17, 53) - (25, 53)
+Line #509 is True!
+Is x:5 <= a: 5: True
+Is y: 99 >= b: 95: True
+2: (5, 95) - (5, 99)
+Line #510 is True!
+1: (34, 40) - (35, 40)
+Line #512 is True!
+1: (1, 99) - (2, 99)
+Line #516 is True!
+1: (4, 98) - (5, 87)
+Line #517 is True!
+Is x:2 <= a: 3: True
+Is y: 98 >= b: 96: True
+2: (3, 96) - (2, 98)
+Line #518 is True!
+Is x:10 <= a: 11: True
+Is y: 97 >= b: 96: True
+2: (11, 96) - (10, 97)
+Line #520 is True!
+1: (19, 72) - (23, 51)
+Line #522 is True!
+Is x:2 <= a: 6: True
+Is y: 96 >= b: 96: True
+2: (6, 96) - (2, 96)
+Line #523 is True!
+Is x:17 <= a: 17: True
+Is y: 37 >= b: 33: True
+2: (17, 33) - (17, 37)
+Line #528 is True!
+1: (43, 64) - (63, 63)
+Line #529 is True!
+1: (63, 85) - (64, 85)
+Line #532 is True!
+1: (23, 33) - (23, 28)
+Line #535 is True!
+1: (58, 90) - (59, 67)
+Line #536 is True!
+Is x:2 <= a: 3: True
+Is y: 61 >= b: 3: True
+2: (3, 3) - (2, 61)
+Line #543 is True!
+1: (1, 9) - (1, 3)
+Line #544 is True!
+Is x:6 <= a: 7: True
+Is y: 99 >= b: 7: True
+2: (7, 7) - (6, 99)
+Line #545 is True!
+1: (5, 74) - (6, 74)
+Line #547 is True!
+Is x:17 <= a: 18: True
+Is y: 55 >= b: 55: True
+2: (18, 55) - (17, 55)
+Line #548 is True!
+1: (27, 97) - (27, 83)
+Line #550 is True!
+1: (25, 69) - (26, 36)
+Line #552 is True!
+Is x:72 <= a: 72: True
+Is y: 95 >= b: 94: True
+2: (72, 94) - (72, 95)
+Line #553 is True!
+Is x:4 <= a: 4: True
+Is y: 94 >= b: 80: True
+2: (4, 80) - (4, 94)
+Line #554 is True!
+Is x:7 <= a: 7: True
+Is y: 99 >= b: 77: True
+2: (7, 77) - (7, 99)
+Line #555 is True!
+Is x:42 <= a: 42: True
+Is y: 92 >= b: 91: True
+2: (42, 91) - (42, 92)
+Line #556 is True!
+1: (40, 93) - (40, 87)
+Line #558 is True!
+1: (1, 28) - (27, 27)
+Line #561 is True!
+1: (12, 63) - (13, 13)
+Line #562 is True!
+1: (56, 67) - (56, 65)
+Line #565 is True!
+1: (5, 68) - (6, 68)
+Line #566 is True!
+Is x:7 <= a: 8: True
+Is y: 14 >= b: 14: True
+2: (8, 14) - (7, 14)
+Line #568 is True!
+1: (18, 89) - (18, 18)
+Line #569 is True!
+1: (27, 85) - (84, 84)
+Line #572 is True!
+1: (7, 68) - (17, 67)
+Line #574 is True!
+Is x:19 <= a: 20: True
+Is y: 70 >= b: 69: True
+2: (20, 69) - (19, 70)
+Line #575 is True!
+1: (13, 94) - (13, 94)
+Line #578 is True!
+Is x:52 <= a: 52: True
+Is y: 81 >= b: 80: True
+2: (52, 80) - (52, 81)
+Line #579 is True!
+1: (22, 96) - (24, 95)
+Line #583 is True!
+Is x:84 <= a: 84: True
+Is y: 99 >= b: 89: True
+2: (84, 89) - (84, 99)
+Line #586 is True!
+Is x:40 <= a: 41: True
+Is y: 85 >= b: 85: True
+2: (41, 85) - (40, 85)
+Line #588 is True!
+1: (38, 63) - (60, 60)
+Line #589 is True!
+1: (43, 89) - (43, 43)
+Line #590 is True!
+Is x:10 <= a: 11: True
+Is y: 84 >= b: 83: True
+2: (11, 83) - (10, 84)
+Line #591 is True!
+1: (25, 91) - (26, 26)
+Line #593 is True!
+Is x:22 <= a: 23: True
+Is y: 95 >= b: 23: True
+2: (23, 23) - (22, 95)
+Line #594 is True!
+Is x:1 <= a: 2: True
+Is y: 92 >= b: 2: True
+2: (2, 2) - (1, 92)
+Line #595 is True!
+1: (6, 96) - (34, 96)
+Line #597 is True!
+1: (7, 85) - (7, 85)
+Line #601 is True!
+1: (19, 56) - (20, 55)
+Line #602 is True!
+Is x:2 <= a: 90: True
+Is y: 91 >= b: 90: True
+2: (90, 90) - (2, 91)
+Line #604 is True!
+Is x:81 <= a: 81: True
+Is y: 94 >= b: 90: True
+2: (81, 90) - (81, 94)
+Line #608 is True!
+1: (26, 81) - (81, 81)
+Line #609 is True!
+Is x:13 <= a: 14: True
+Is y: 84 >= b: 84: True
+2: (14, 84) - (13, 84)
+Line #611 is True!
+Is x:65 <= a: 66: True
+Is y: 73 >= b: 73: True
+2: (66, 73) - (65, 73)
+Line #613 is True!
+1: (8, 75) - (8, 63)
+Line #614 is True!
+1: (2, 69) - (3, 68)
+Line #616 is True!
+Is x:15 <= a: 15: True
+Is y: 69 >= b: 61: True
+2: (15, 61) - (15, 69)
+Line #617 is True!
+Is x:57 <= a: 57: True
+Is y: 76 >= b: 75: True
+2: (57, 75) - (57, 76)
+Line #618 is True!
+Is x:26 <= a: 26: True
+Is y: 97 >= b: 96: True
+2: (26, 96) - (26, 97)
+Line #622 is True!
+Is x:24 <= a: 25: True
+Is y: 56 >= b: 56: True
+2: (25, 56) - (24, 56)
+Line #623 is True!
+Is x:27 <= a: 28: True
+Is y: 53 >= b: 53: True
+2: (28, 53) - (27, 53)
+Line #624 is True!
+Is x:25 <= a: 26: True
+Is y: 55 >= b: 55: True
+2: (26, 55) - (25, 55)
+Line #625 is True!
+1: (25, 68) - (26, 68)
+Line #626 is True!
+1: (24, 27) - (25, 25)
+Line #628 is True!
+Is x:8 <= a: 44: True
+Is y: 57 >= b: 56: True
+2: (44, 56) - (8, 57)
+Line #629 is True!
+Is x:29 <= a: 29: True
+Is y: 98 >= b: 30: True
+2: (29, 30) - (29, 98)
+Line #630 is True!
+Is x:27 <= a: 28: True
+Is y: 67 >= b: 33: True
+2: (28, 33) - (27, 67)
+Line #631 is True!
+1: (7, 17) - (7, 11)
+Line #632 is True!
+Is x:18 <= a: 38: True
+Is y: 51 >= b: 50: True
+2: (38, 50) - (18, 51)
+Line #639 is True!
+1: (39, 42) - (41, 41)
+Line #640 is True!
+Is x:55 <= a: 55: True
+Is y: 58 >= b: 57: True
+2: (55, 57) - (55, 58)
+Line #641 is True!
+1: (19, 89) - (36, 88)
+Line #642 is True!
+1: (83, 90) - (83, 85)
+Line #644 is True!
+1: (22, 92) - (48, 61)
+Line #646 is True!
+Is x:1 <= a: 2: True
+Is y: 72 >= b: 3: True
+2: (2, 3) - (1, 72)
+Line #648 is True!
+1: (35, 54) - (54, 54)
+Line #650 is True!
+Is x:26 <= a: 26: True
+Is y: 63 >= b: 27: True
+2: (26, 27) - (26, 63)
+Line #655 is True!
+Is x:9 <= a: 26: True
+Is y: 26 >= b: 26: True
+2: (26, 26) - (9, 26)
+Line #656 is True!
+1: (25, 60) - (60, 60)
+Line #657 is True!
+1: (21, 88) - (22, 22)
+Line #660 is True!
+1: (57, 88) - (58, 88)
+Line #663 is True!
+Is x:55 <= a: 67: True
+Is y: 98 >= b: 89: True
+2: (67, 89) - (55, 98)
+Line #665 is True!
+1: (19, 65) - (20, 49)
+Line #675 is True!
+1: (28, 68) - (29, 43)
+Line #679 is True!
+Is x:25 <= a: 26: True
+Is y: 48 >= b: 26: True
+2: (26, 26) - (25, 48)
+Line #680 is True!
+Is x:31 <= a: 31: True
+Is y: 58 >= b: 54: True
+2: (31, 54) - (31, 58)
+Line #683 is True!
+Is x:1 <= a: 2: True
+Is y: 90 >= b: 15: True
+2: (2, 15) - (1, 90)
+Line #686 is True!
+Is x:62 <= a: 63: True
+Is y: 91 >= b: 91: True
+2: (63, 91) - (62, 91)
+Line #688 is True!
+1: (36, 88) - (36, 87)
+Line #690 is True!
+1: (19, 98) - (19, 97)
+Line #691 is True!
+1: (2, 98) - (98, 98)
+Line #692 is True!
+Is x:11 <= a: 11: True
+Is y: 85 >= b: 84: True
+2: (11, 84) - (11, 85)
+Line #693 is True!
+Is x:38 <= a: 38: True
+Is y: 57 >= b: 56: True
+2: (38, 56) - (38, 57)
+Line #696 is True!
+Is x:23 <= a: 24: True
+Is y: 73 >= b: 73: True
+2: (24, 73) - (23, 73)
+Line #698 is True!
+1: (3, 94) - (4, 93)
+Line #701 is True!
+Is x:25 <= a: 26: True
+Is y: 83 >= b: 26: True
+2: (26, 26) - (25, 83)
+Line #702 is True!
+1: (1, 99) - (1, 97)
+Line #703 is True!
+Is x:7 <= a: 7: True
+Is y: 99 >= b: 94: True
+2: (7, 94) - (7, 99)
+Line #704 is True!
+1: (39, 47) - (42, 47)
+Line #706 is True!
+Is x:2 <= a: 3: True
+Is y: 94 >= b: 94: True
+2: (3, 94) - (2, 94)
+Line #708 is True!
+1: (60, 99) - (60, 92)
+Line #710 is True!
+1: (18, 69) - (69, 69)
+Line #711 is True!
+1: (12, 90) - (12, 15)
+Line #716 is True!
+Is x:2 <= a: 3: True
+Is y: 78 >= b: 3: True
+2: (3, 3) - (2, 78)
+Line #719 is True!
+1: (42, 90) - (59, 90)
+Line #721 is True!
+1: (47, 68) - (63, 64)
+Line #723 is True!
+1: (1, 97) - (2, 97)
+Line #724 is True!
+Is x:22 <= a: 28: True
+Is y: 81 >= b: 81: True
+2: (28, 81) - (22, 81)
+Line #725 is True!
+Is x:1 <= a: 10: True
+Is y: 88 >= b: 88: True
+2: (10, 88) - (1, 88)
+Line #726 is True!
+1: (15, 84) - (15, 81)
+Line #727 is True!
+1: (67, 72) - (68, 68)
+Line #728 is True!
+1: (1, 72) - (1, 72)
+Line #729 is True!
+Is x:1 <= a: 2: True
+Is y: 99 >= b: 99: True
+2: (2, 99) - (1, 99)
+Line #733 is True!
+1: (1, 99) - (99, 99)
+Line #734 is True!
+1: (16, 99) - (17, 99)
+Line #735 is True!
+1: (38, 87) - (39, 87)
+Line #737 is True!
+1: (24, 47) - (28, 46)
+Line #738 is True!
+Is x:38 <= a: 38: True
+Is y: 99 >= b: 94: True
+2: (38, 94) - (38, 99)
+Line #739 is True!
+1: (58, 85) - (59, 67)
+Line #740 is True!
+1: (20, 22) - (21, 21)
+Line #741 is True!
+Is x:5 <= a: 6: True
+Is y: 44 >= b: 43: True
+2: (6, 43) - (5, 44)
+Line #746 is True!
+1: (23, 71) - (24, 71)
+Line #749 is True!
+Is x:27 <= a: 46: True
+Is y: 77 >= b: 76: True
+2: (46, 76) - (27, 77)
+Line #753 is True!
+Is x:26 <= a: 27: True
+Is y: 46 >= b: 46: True
+2: (27, 46) - (26, 46)
+Line #755 is True!
+Is x:22 <= a: 42: True
+Is y: 43 >= b: 42: True
+2: (42, 42) - (22, 43)
+Line #759 is True!
+1: (7, 96) - (8, 96)
+Line #760 is True!
+Is x:28 <= a: 28: True
+Is y: 87 >= b: 33: True
+2: (28, 33) - (28, 87)
+Line #761 is True!
+Is x:1 <= a: 1: True
+Is y: 85 >= b: 31: True
+2: (1, 31) - (1, 85)
+Line #762 is True!
+Is x:2 <= a: 4: True
+Is y: 96 >= b: 96: True
+2: (4, 96) - (2, 96)
+Line #764 is True!
+Is x:29 <= a: 30: True
+Is y: 99 >= b: 30: True
+2: (30, 30) - (29, 99)
+Line #765 is True!
+1: (30, 39) - (30, 30)
+Line #766 is True!
+Is x:68 <= a: 68: True
+Is y: 87 >= b: 69: True
+2: (68, 69) - (68, 87)
+Line #768 is True!
+1: (30, 95) - (30, 76)
+Line #769 is True!
+Is x:10 <= a: 10: True
+Is y: 99 >= b: 63: True
+2: (10, 63) - (10, 99)
+Line #770 is True!
+1: (2, 98) - (98, 98)
+Line #771 is True!
+Is x:9 <= a: 9: True
+Is y: 81 >= b: 80: True
+2: (9, 80) - (9, 81)
+Line #773 is True!
+1: (3, 99) - (4, 28)
+Line #777 is True!
+1: (5, 95) - (6, 95)
+Line #778 is True!
+1: (41, 86) - (42, 85)
+Line #779 is True!
+Is x:1 <= a: 1: True
+Is y: 62 >= b: 51: True
+2: (1, 51) - (1, 62)
+Line #781 is True!
+1: (73, 83) - (74, 79)
+Line #783 is True!
+1: (93, 97) - (93, 96)
+Line #784 is True!
+Is x:32 <= a: 33: True
+Is y: 93 >= b: 93: True
+2: (33, 93) - (32, 93)
+Line #785 is True!
+1: (1, 88) - (2, 88)
+Line #790 is True!
+1: (5, 51) - (5, 29)
+Line #791 is True!
+Is x:23 <= a: 23: True
+Is y: 90 >= b: 89: True
+2: (23, 89) - (23, 90)
+Line #794 is True!
+1: (55, 80) - (56, 79)
+Line #795 is True!
+Is x:42 <= a: 43: True
+Is y: 59 >= b: 43: True
+2: (43, 43) - (42, 59)
+Line #796 is True!
+1: (23, 96) - (68, 91)
+Line #800 is True!
+1: (1, 85) - (60, 84)
+Line #801 is True!
+Is x:11 <= a: 27: True
+Is y: 27 >= b: 27: True
+2: (27, 27) - (11, 27)
+Line #802 is True!
+Is x:33 <= a: 33: True
+Is y: 64 >= b: 35: True
+2: (33, 35) - (33, 64)
+Line #803 is True!
+1: (9, 77) - (10, 10)
+Line #804 is True!
+Is x:16 <= a: 16: True
+Is y: 96 >= b: 95: True
+2: (16, 95) - (16, 96)
+Line #806 is True!
+1: (21, 94) - (21, 22)
+Line #807 is True!
+1: (5, 39) - (5, 39)
+Line #810 is True!
+1: (12, 82) - (13, 82)
+Line #811 is True!
+Is x:63 <= a: 70: True
+Is y: 70 >= b: 70: True
+2: (70, 70) - (63, 70)
+Line #812 is True!
+Is x:79 <= a: 80: True
+Is y: 97 >= b: 80: True
+2: (80, 80) - (79, 97)
+Line #815 is True!
+1: (63, 83) - (63, 65)
+Line #818 is True!
+1: (8, 56) - (8, 55)
+Line #819 is True!
+Is x:29 <= a: 29: True
+Is y: 68 >= b: 67: True
+2: (29, 67) - (29, 68)
+Line #824 is True!
+Is x:11 <= a: 13: True
+Is y: 41 >= b: 26: True
+2: (13, 26) - (11, 41)
+Line #826 is True!
+1: (16, 99) - (17, 99)
+Line #827 is True!
+1: (16, 98) - (17, 98)
+Line #828 is True!
+Is x:18 <= a: 18: True
+Is y: 83 >= b: 54: True
+2: (18, 54) - (18, 83)
+Line #829 is True!
+Is x:58 <= a: 63: True
+Is y: 63 >= b: 63: True
+2: (63, 63) - (58, 63)
+Line #831 is True!
+1: (37, 91) - (37, 85)
+Line #832 is True!
+Is x:17 <= a: 17: True
+Is y: 75 >= b: 61: True
+2: (17, 61) - (17, 75)
+Line #836 is True!
+1: (11, 69) - (11, 36)
+Line #838 is True!
+1: (22, 84) - (22, 83)
+Line #839 is True!
+Is x:1 <= a: 1: True
+Is y: 65 >= b: 64: True
+2: (1, 64) - (1, 65)
+Line #840 is True!
+1: (27, 39) - (38, 38)
+Line #841 is True!
+Is x:55 <= a: 55: True
+Is y: 98 >= b: 92: True
+2: (55, 92) - (55, 98)
+Line #844 is True!
+Is x:8 <= a: 51: True
+Is y: 52 >= b: 51: True
+2: (51, 51) - (8, 52)
+Line #845 is True!
+Is x:1 <= a: 2: True
+Is y: 26 >= b: 26: True
+2: (2, 26) - (1, 26)
+Line #846 is True!
+1: (23, 64) - (64, 64)
+Line #847 is True!
+1: (57, 82) - (57, 81)
+Line #848 is True!
+Is x:26 <= a: 91: True
+Is y: 91 >= b: 91: True
+2: (91, 91) - (26, 91)
+Line #849 is True!
+Is x:1 <= a: 1: True
+Is y: 95 >= b: 94: True
+2: (1, 94) - (1, 95)
+Line #851 is True!
+Is x:16 <= a: 56: True
+Is y: 99 >= b: 83: True
+2: (56, 83) - (16, 99)
+Line #852 is True!
+Is x:2 <= a: 22: True
+Is y: 89 >= b: 84: True
+2: (22, 84) - (2, 89)
+Line #855 is True!
+Is x:30 <= a: 31: True
+Is y: 93 >= b: 93: True
+2: (31, 93) - (30, 93)
+Line #857 is True!
+1: (72, 92) - (73, 92)
+Line #858 is True!
+1: (4, 94) - (6, 94)
+Line #860 is True!
+Is x:8 <= a: 9: True
+Is y: 61 >= b: 61: True
+2: (9, 61) - (8, 61)
+Line #862 is True!
+1: (69, 91) - (69, 69)
+Line #863 is True!
+1: (10, 52) - (10, 51)
+Line #865 is True!
+Is x:8 <= a: 9: True
+Is y: 49 >= b: 9: True
+2: (9, 9) - (8, 49)
+Line #866 is True!
+Is x:65 <= a: 66: True
+Is y: 78 >= b: 67: True
+2: (66, 67) - (65, 78)
+Line #867 is True!
+Is x:2 <= a: 2: True
+Is y: 98 >= b: 90: True
+2: (2, 90) - (2, 98)
+Line #868 is True!
+Is x:41 <= a: 42: True
+Is y: 79 >= b: 42: True
+2: (42, 42) - (41, 79)
+Line #869 is True!
+1: (3, 86) - (3, 42)
+Line #870 is True!
+1: (15, 93) - (25, 73)
+Line #871 is True!
+Is x:15 <= a: 16: True
+Is y: 99 >= b: 99: True
+2: (16, 99) - (15, 99)
+Line #873 is True!
+1: (32, 81) - (32, 80)
+Line #878 is True!
+Is x:22 <= a: 22: True
+Is y: 95 >= b: 85: True
+2: (22, 85) - (22, 95)
+Line #879 is True!
+1: (26, 93) - (26, 33)
+Line #884 is True!
+Is x:19 <= a: 19: True
+Is y: 91 >= b: 36: True
+2: (19, 36) - (19, 91)
+Line #888 is True!
+1: (37, 46) - (38, 43)
+Line #891 is True!
+Is x:73 <= a: 73: True
+Is y: 78 >= b: 75: True
+2: (73, 75) - (73, 78)
+Line #892 is True!
+1: (18, 97) - (97, 97)
+Line #893 is True!
+1: (4, 98) - (4, 94)
+Line #894 is True!
+Is x:25 <= a: 88: True
+Is y: 88 >= b: 88: True
+2: (88, 88) - (25, 88)
+Line #895 is True!
+Is x:4 <= a: 95: True
+Is y: 95 >= b: 95: True
+2: (95, 95) - (4, 95)
+Line #896 is True!
+Is x:2 <= a: 3: True
+Is y: 95 >= b: 3: True
+2: (3, 3) - (2, 95)
+Line #900 is True!
+Is x:4 <= a: 5: True
+Is y: 37 >= b: 37: True
+2: (5, 37) - (4, 37)
+Line #901 is True!
+1: (5, 81) - (5, 80)
+Line #902 is True!
+1: (2, 95) - (9, 95)
+Line #903 is True!
+1: (12, 87) - (13, 13)
+Line #904 is True!
+Is x:2 <= a: 2: True
+Is y: 96 >= b: 3: True
+2: (2, 3) - (2, 96)
+Line #905 is True!
+Is x:19 <= a: 19: True
+Is y: 94 >= b: 63: True
+2: (19, 63) - (19, 94)
+Line #906 is True!
+1: (37, 69) - (38, 52)
+Line #909 is True!
+1: (66, 87) - (66, 83)
+Line #911 is True!
+1: (11, 71) - (13, 70)
+Line #914 is True!
+Is x:39 <= a: 40: True
+Is y: 43 >= b: 43: True
+2: (40, 43) - (39, 43)
+Line #915 is True!
+1: (1, 73) - (1, 1)
+Line #916 is True!
+Is x:12 <= a: 12: True
+Is y: 92 >= b: 91: True
+2: (12, 91) - (12, 92)
+Line #917 is True!
+1: (6, 83) - (7, 7)
+Line #919 is True!
+Is x:19 <= a: 20: True
+Is y: 41 >= b: 36: True
+2: (20, 36) - (19, 41)
+Line #920 is True!
+1: (12, 97) - (97, 97)
+Line #923 is True!
+1: (1, 89) - (89, 89)
+Line #924 is True!
+Is x:12 <= a: 13: True
+Is y: 34 >= b: 34: True
+2: (13, 34) - (12, 34)
+Line #925 is True!
+Is x:46 <= a: 46: True
+Is y: 79 >= b: 52: True
+2: (46, 52) - (46, 79)
+Line #926 is True!
+1: (34, 36) - (34, 35)
+Line #927 is True!
+1: (22, 76) - (76, 76)
+Line #928 is True!
+1: (3, 93) - (4, 76)
+Line #929 is True!
+1: (7, 20) - (20, 20)
+Line #931 is True!
+Is x:4 <= a: 4: True
+Is y: 94 >= b: 92: True
+2: (4, 92) - (4, 94)
+Line #935 is True!
+1: (22, 32) - (22, 22)
+Line #937 is True!
+1: (1, 99) - (2, 98)
+Line #938 is True!
+Is x:53 <= a: 61: True
+Is y: 70 >= b: 70: True
+2: (61, 70) - (53, 70)
+Line #939 is True!
+1: (45, 96) - (46, 96)
+Line #940 is True!
+Is x:1 <= a: 1: True
+Is y: 99 >= b: 2: True
+2: (1, 2) - (1, 99)
+Line #942 is True!
+1: (19, 99) - (20, 94)
+Line #943 is True!
+Is x:5 <= a: 6: True
+Is y: 70 >= b: 70: True
+2: (6, 70) - (5, 70)
+Line #946 is True!
+Is x:55 <= a: 55: True
+Is y: 84 >= b: 83: True
+2: (55, 83) - (55, 84)
+Line #948 is True!
+Is x:29 <= a: 29: True
+Is y: 74 >= b: 31: True
+2: (29, 31) - (29, 74)
+Line #950 is True!
+1: (5, 42) - (5, 41)
+Line #951 is True!
+1: (21, 99) - (21, 77)
+Line #952 is True!
+1: (33, 51) - (50, 50)
+Line #954 is True!
+1: (28, 94) - (29, 29)
+Line #956 is True!
+1: (6, 23) - (11, 14)
+Line #957 is True!
+1: (84, 96) - (84, 96)
+Line #960 is True!
+Is x:37 <= a: 38: True
+Is y: 45 >= b: 38: True
+2: (38, 38) - (37, 45)
+Line #961 is True!
+Is x:38 <= a: 39: True
+Is y: 70 >= b: 70: True
+2: (39, 70) - (38, 70)
+Line #964 is True!
+Is x:3 <= a: 4: True
+Is y: 95 >= b: 22: True
+2: (4, 22) - (3, 95)
+Line #967 is True!
+Is x:26 <= a: 27: True
+Is y: 77 >= b: 76: True
+2: (27, 76) - (26, 77)
+Line #969 is True!
+1: (34, 71) - (57, 71)
+Line #970 is True!
+Is x:20 <= a: 49: True
+Is y: 62 >= b: 62: True
+2: (49, 62) - (20, 62)
+Line #971 is True!
+Is x:72 <= a: 72: True
+Is y: 92 >= b: 72: True
+2: (72, 72) - (72, 92)
+Line #974 is True!
+1: (24, 96) - (24, 25)
+Line #976 is True!
+Is x:32 <= a: 38: True
+Is y: 94 >= b: 93: True
+2: (38, 93) - (32, 94)
+Line #977 is True!
+1: (38, 76) - (38, 76)
+Line #979 is True!
+Is x:30 <= a: 31: True
+Is y: 50 >= b: 50: True
+2: (31, 50) - (30, 50)
+Line #980 is True!
+1: (69, 88) - (88, 88)
+Line #983 is True!
+Is x:46 <= a: 47: True
+Is y: 87 >= b: 48: True
+2: (47, 48) - (46, 87)
+Line #984 is True!
+Is x:32 <= a: 32: True
+Is y: 86 >= b: 52: True
+2: (32, 52) - (32, 86)
+Line #989 is True!
+Is x:15 <= a: 15: True
+Is y: 47 >= b: 28: True
+2: (15, 28) - (15, 47)
+Line #991 is True!
+1: (14, 64) - (15, 64)
+Line #992 is True!
+Is x:25 <= a: 88: True
+Is y: 89 >= b: 88: True
+2: (88, 88) - (25, 89)
+Line #993 is True!
+Is x:15 <= a: 80: True
+Is y: 80 >= b: 80: True
+2: (80, 80) - (15, 80)
+Line #994 is True!
+Is x:36 <= a: 49: True
+Is y: 80 >= b: 80: True
+2: (49, 80) - (36, 80)
+Line #999 is True!
+496
